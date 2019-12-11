@@ -1,2 +1,2 @@
 # arena-challenge
-challenges from arena-tech site
+challenges from arena.tech site
